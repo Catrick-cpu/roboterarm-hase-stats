@@ -92,16 +92,5 @@
   ],
   "commits_last_year": 255,
   "loc_now": 9119,
-  "tests_now": 299,
-  "ci": {
-    "conclusion": "success",
-    "at": "2026-11-07"
-  },
-  "issues": {
-    "open_issues": 25,
-    "closed_issues": 16,
-    "open_prs": 0,
-    "merged_prs": 17,
-    "median_days_to_merge": 0.0
-  }
+  "tests_now": 299
 }
