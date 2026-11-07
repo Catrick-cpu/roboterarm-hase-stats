@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="110" viewBox="0 0 620 110" role="img" aria-label="Project stats">
+<rect width="620" height="110" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="28" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13">Roboterarm HASE · git statistics</text>
+<text x="20" y="66" fill="#58a6ff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700">253</text>
+<text x="20" y="88" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12">Commits</text>
+<text x="175" y="66" fill="#58a6ff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700">10</text>
+<text x="175" y="88" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12">Contributors</text>
+<text x="330" y="66" fill="#58a6ff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700">69</text>
+<text x="330" y="88" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12">Active days</text>
+<text x="485" y="66" fill="#58a6ff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700">2026-11-06</text>
+<text x="485" y="88" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12">Last commit</text>
+</svg>
