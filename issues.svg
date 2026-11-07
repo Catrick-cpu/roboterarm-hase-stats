@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="110" viewBox="0 0 620 110" role="img" aria-label="Issues &amp; pull requests">
+<rect width="620" height="110" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="26" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13">Issues &amp; pull requests</text>
+<text x="20.0" y="66.0" fill="#58a6ff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" text-anchor="start" font-weight="700">25</text>
+<text x="20.0" y="88.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="start" font-weight="400">Open issues</text>
+<text x="136.0" y="66.0" fill="#58a6ff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" text-anchor="start" font-weight="700">16</text>
+<text x="136.0" y="88.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="start" font-weight="400">Closed issues</text>
+<text x="252.0" y="66.0" fill="#58a6ff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" text-anchor="start" font-weight="700">0</text>
+<text x="252.0" y="88.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="start" font-weight="400">Open PRs</text>
+<text x="368.0" y="66.0" fill="#58a6ff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" text-anchor="start" font-weight="700">17</text>
+<text x="368.0" y="88.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="start" font-weight="400">Merged PRs</text>
+<text x="484.0" y="66.0" fill="#58a6ff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" text-anchor="start" font-weight="700">0</text>
+<text x="484.0" y="88.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="start" font-weight="400">Median days to merge</text>
+</svg>

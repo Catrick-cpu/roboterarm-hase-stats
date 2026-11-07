@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="240" viewBox="0 0 620 240" role="img" aria-label="Rust #[test] functions (month end)">
+<rect width="620" height="240" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="26" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13">Rust #[test] functions (month end)</text>
+<polygon points="52.0,200.0 52.0,200.0 102.2,200.0 152.4,200.0 202.5,200.0 252.7,200.0 302.9,200.0 353.1,200.0 403.3,200.0 453.5,200.0 503.6,144.2 553.8,112.9 604.0,44.0 604.0,200.0" fill="#d29922" fill-opacity="0.12"/>
+<polyline points="52.0,200.0 102.2,200.0 152.4,200.0 202.5,200.0 252.7,200.0 302.9,200.0 353.1,200.0 403.3,200.0 453.5,200.0 503.6,144.2 553.8,112.9 604.0,44.0" fill="none" stroke="#d29922" stroke-width="2"/>
+<circle cx="52.0" cy="200.0" r="2.5" fill="#d29922"><title>11.25: 0 tests</title></circle>
+<circle cx="102.2" cy="200.0" r="2.5" fill="#d29922"><title>12.25: 0 tests</title></circle>
+<circle cx="152.4" cy="200.0" r="2.5" fill="#d29922"><title>01.26: 0 tests</title></circle>
+<circle cx="202.5" cy="200.0" r="2.5" fill="#d29922"><title>02.26: 0 tests</title></circle>
+<circle cx="252.7" cy="200.0" r="2.5" fill="#d29922"><title>03.26: 0 tests</title></circle>
+<circle cx="302.9" cy="200.0" r="2.5" fill="#d29922"><title>04.26: 0 tests</title></circle>
+<circle cx="353.1" cy="200.0" r="2.5" fill="#d29922"><title>05.26: 0 tests</title></circle>
+<circle cx="403.3" cy="200.0" r="2.5" fill="#d29922"><title>06.26: 0 tests</title></circle>
+<circle cx="453.5" cy="200.0" r="2.5" fill="#d29922"><title>07.26: 0 tests</title></circle>
+<circle cx="503.6" cy="144.2" r="2.5" fill="#d29922"><title>09.26: 107 tests</title></circle>
+<circle cx="553.8" cy="112.9" r="2.5" fill="#d29922"><title>10.26: 167 tests</title></circle>
+<circle cx="604.0" cy="44.0" r="2.5" fill="#d29922"><title>11.26: 299 tests</title></circle>
+<text x="46.0" y="48.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="end" font-weight="400">299</text>
+<text x="46.0" y="200.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="end" font-weight="400">0</text>
+<text x="52.0" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">11.25</text>
+<text x="102.2" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">12.25</text>
+<text x="152.4" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">01.26</text>
+<text x="202.5" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">02.26</text>
+<text x="252.7" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">03.26</text>
+<text x="302.9" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">04.26</text>
+<text x="353.1" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">05.26</text>
+<text x="403.3" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">06.26</text>
+<text x="453.5" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">07.26</text>
+<text x="503.6" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">09.26</text>
+<text x="553.8" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">10.26</text>
+<text x="604.0" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">11.26</text>
+</svg>

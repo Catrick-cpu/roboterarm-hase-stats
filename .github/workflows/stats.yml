@@ -25,12 +25,14 @@ jobs:
           ref: main
           fetch-depth: 0
           path: source
-      - name: Generate stats
+      - name: Generate stats and charts
+        env:
+          SOURCE_TOKEN: ${{ secrets.SOURCE_TOKEN }}
         run: python3 stats-repo/tools/stats.py --src source --out stats-repo --name HASE-HGV/Roboterarm-Hase
       - name: Commit if changed
         working-directory: stats-repo
         run: |
-          git add stats.json summary.svg languages.svg
+          git add -A -- '*.svg' stats.json
           if git diff --cached --quiet; then
             echo "No changes"; exit 0
           fi

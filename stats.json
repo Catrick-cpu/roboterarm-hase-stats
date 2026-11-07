@@ -1,11 +1,11 @@
 {
   "repo": "HASE-HGV/Roboterarm-Hase",
-  "generated_at": "2026-11-06T19:33:17+01:00",
-  "commits": 253,
+  "generated_at": "2026-11-07T11:36:43+01:00",
+  "commits": 255,
   "contributors": 10,
-  "active_days": 69,
+  "active_days": 70,
   "first_commit": "2025-11-14",
-  "last_commit": "2026-11-06",
+  "last_commit": "2026-11-07",
   "top_contributors": [
     {
       "name": "lucagurr",
@@ -25,19 +25,19 @@
     },
     {
       "name": "Catrick The Game",
-      "commits": 16
+      "commits": 17
     },
     {
       "name": "frozen brain",
       "commits": 13
     },
     {
-      "name": "Johannes",
+      "name": "Patrick Streng",
       "commits": 11
     },
     {
-      "name": "Patrick Streng",
-      "commits": 10
+      "name": "Johannes",
+      "commits": 11
     },
     {
       "name": "Flxx94",
@@ -89,5 +89,19 @@
       "bytes": 101,
       "percent": 0.0
     }
-  ]
+  ],
+  "commits_last_year": 255,
+  "loc_now": 9119,
+  "tests_now": 299,
+  "ci": {
+    "conclusion": "success",
+    "at": "2026-11-07"
+  },
+  "issues": {
+    "open_issues": 25,
+    "closed_issues": 16,
+    "open_prs": 0,
+    "merged_prs": 17,
+    "median_days_to_merge": 0.0
+  }
 }
