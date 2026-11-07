@@ -57,15 +57,33 @@ def git(src: Path, *args: str) -> str:
                           capture_output=True, text=True).stdout
 
 
+# Git author names that belong to the same person (matched case-insensitively).
+# Keys are lowercase names; values are the display name shown in the charts.
+# Identities were checked against commit e-mail / GitHub noreply IDs.
+AUTHOR_ALIASES = {
+    "lucagurr": "Luca Gurband",
+    "luca gurband": "Luca Gurband",
+    "catrick-cpu": "Patrick Streng",
+    "catrick the game": "Patrick Streng",
+    "patrick streng": "Patrick Streng",
+    "frozen brain": "Johannes",
+}
+
+
+def canonical_author(name: str) -> str:
+    return AUTHOR_ALIASES.get(name.strip().lower(), name.strip())
+
+
 def collect_commits(src: Path) -> list[dict]:
-    """Newest first. Each: sha, author, date (aware datetime)."""
+    """Newest first. Each: sha, author (canonical), date (aware datetime)."""
     out = git(src, "log", "--format=%H%x1f%an%x1f%aI%x1e", "HEAD")
     commits = []
     for record in out.split("\x1e"):
         record = record.strip()
         if record:
             sha, name, date = record.split("\x1f")
-            commits.append({"sha": sha, "author": name, "date": dt.datetime.fromisoformat(date)})
+            commits.append({"sha": sha, "author": canonical_author(name),
+                            "date": dt.datetime.fromisoformat(date)})
     return commits
 
 

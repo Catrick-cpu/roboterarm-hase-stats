@@ -1,43 +1,23 @@
 {
   "repo": "HASE-HGV/Roboterarm-Hase",
-  "generated_at": "2026-11-07T11:36:43+01:00",
-  "commits": 255,
-  "contributors": 10,
+  "generated_at": "2026-11-07T11:42:46+01:00",
+  "commits": 256,
+  "contributors": 5,
   "active_days": 70,
   "first_commit": "2025-11-14",
   "last_commit": "2026-11-07",
   "top_contributors": [
     {
-      "name": "lucagurr",
-      "commits": 64
-    },
-    {
       "name": "Luca Gurband",
-      "commits": 49
-    },
-    {
-      "name": "Catrick-cpu",
-      "commits": 48
-    },
-    {
-      "name": "LucaGurr",
-      "commits": 40
-    },
-    {
-      "name": "Catrick The Game",
-      "commits": 17
-    },
-    {
-      "name": "frozen brain",
-      "commits": 13
+      "commits": 153
     },
     {
       "name": "Patrick Streng",
-      "commits": 11
+      "commits": 77
     },
     {
       "name": "Johannes",
-      "commits": 11
+      "commits": 24
     },
     {
       "name": "Flxx94",
@@ -52,22 +32,22 @@
     {
       "name": "Rust",
       "bytes": 195860,
-      "percent": 65.9
+      "percent": 64.8
     },
     {
       "name": "Python",
       "bytes": 45679,
-      "percent": 15.4
+      "percent": 15.1
     },
     {
       "name": "HTML",
       "bytes": 45194,
-      "percent": 15.2
+      "percent": 15.0
     },
     {
       "name": "YAML",
-      "bytes": 5660,
-      "percent": 1.9
+      "bytes": 10436,
+      "percent": 3.5
     },
     {
       "name": "Shell",
@@ -90,7 +70,7 @@
       "percent": 0.0
     }
   ],
-  "commits_last_year": 255,
-  "loc_now": 9119,
+  "commits_last_year": 256,
+  "loc_now": 9222,
   "tests_now": 299
 }
