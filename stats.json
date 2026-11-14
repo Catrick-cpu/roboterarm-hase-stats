@@ -1,15 +1,15 @@
 {
   "repo": "HASE-HGV/Roboterarm-Hase",
-  "generated_at": "2026-11-07T11:47:03+01:00",
-  "commits": 258,
+  "generated_at": "2026-11-14T11:47:18+01:00",
+  "commits": 261,
   "contributors": 5,
-  "active_days": 70,
+  "active_days": 72,
   "first_commit": "2025-11-14",
-  "last_commit": "2026-11-07",
+  "last_commit": "2026-11-14",
   "top_contributors": [
     {
       "name": "Luca Gurband",
-      "commits": 153
+      "commits": 156
     },
     {
       "name": "Patrick Streng",
@@ -31,8 +31,8 @@
   "languages": [
     {
       "name": "Rust",
-      "bytes": 195860,
-      "percent": 64.8
+      "bytes": 196519,
+      "percent": 64.9
     },
     {
       "name": "Python",
@@ -42,12 +42,12 @@
     {
       "name": "HTML",
       "bytes": 45194,
-      "percent": 15.0
+      "percent": 14.9
     },
     {
       "name": "YAML",
       "bytes": 10436,
-      "percent": 3.5
+      "percent": 3.4
     },
     {
       "name": "Shell",
@@ -70,7 +70,7 @@
       "percent": 0.0
     }
   ],
-  "commits_last_year": 258,
-  "loc_now": 9222,
+  "commits_last_year": 261,
+  "loc_now": 9239,
   "tests_now": 299
 }

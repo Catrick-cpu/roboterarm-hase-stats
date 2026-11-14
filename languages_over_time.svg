@@ -144,7 +144,7 @@
 <rect x="517.7" y="212.6" width="32.7" height="0.2" rx="0" fill="#cb171e"><title>10.26: 226 YAML</title></rect>
 <rect x="517.7" y="212.6" width="32.7" height="0.0" rx="0" fill="#9c4221"><title>10.26: 27 TOML</title></rect>
 <text x="534.0" y="234.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">10.26</text>
-<rect x="564.3" y="213.6" width="32.7" height="6.4" rx="0" fill="#dea584"><title>11.26: 6285 Rust</title></rect>
+<rect x="564.3" y="213.6" width="32.7" height="6.4" rx="0" fill="#dea584"><title>11.26: 6302 Rust</title></rect>
 <rect x="564.3" y="212.5" width="32.7" height="1.1" rx="0" fill="#3572A5"><title>11.26: 1033 Python</title></rect>
 <rect x="564.3" y="212.5" width="32.7" height="0.0" rx="0" fill="#f1e05a"><title>11.26: 0 JavaScript</title></rect>
 <rect x="564.3" y="212.5" width="32.7" height="0.0" rx="0" fill="#3178c6"><title>11.26: 0 TypeScript</title></rect>
@@ -152,8 +152,8 @@
 <rect x="564.3" y="211.2" width="32.7" height="0.0" rx="0" fill="#563d7c"><title>11.26: 0 CSS</title></rect>
 <rect x="564.3" y="211.2" width="32.7" height="0.0" rx="0" fill="#e5cd45"><title>11.26: 13 OpenSCAD</title></rect>
 <rect x="564.3" y="211.2" width="32.7" height="0.0" rx="0" fill="#f34b7d"><title>11.26: 0 C++</title></rect>
-<rect x="564.3" y="211.1" width="32.7" height="0.1" rx="0" fill="#89e051"><title>11.26: 114 Shell</title></rect>
-<rect x="564.3" y="211.1" width="32.7" height="0.0" rx="0" fill="#C1F12E"><title>11.26: 7 Batch</title></rect>
+<rect x="564.3" y="211.0" width="32.7" height="0.1" rx="0" fill="#89e051"><title>11.26: 114 Shell</title></rect>
+<rect x="564.3" y="211.0" width="32.7" height="0.0" rx="0" fill="#C1F12E"><title>11.26: 7 Batch</title></rect>
 <rect x="564.3" y="210.6" width="32.7" height="0.4" rx="0" fill="#cb171e"><title>11.26: 425 YAML</title></rect>
 <rect x="564.3" y="210.6" width="32.7" height="0.0" rx="0" fill="#9c4221"><title>11.26: 41 TOML</title></rect>
 <text x="580.7" y="234.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">11.26</text>
