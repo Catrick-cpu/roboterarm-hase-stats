@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="620" height="240" viewBox="0 0 620 240" role="img" aria-label="Tracked repository size (KiB, month end)">
 <rect width="620" height="240" rx="12" fill="#0d1117" stroke="#30363d"/>
 <text x="20" y="26" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13">Tracked repository size (KiB, month end)</text>
-<polygon points="52.0,200.0 52.0,199.9 102.2,199.9 152.4,111.2 202.5,184.6 252.7,178.8 302.9,178.7 353.1,199.4 403.3,44.0 453.5,44.7 503.6,54.2 553.8,53.8 604.0,51.6 604.0,200.0" fill="#58a6ff" fill-opacity="0.12"/>
-<polyline points="52.0,199.9 102.2,199.9 152.4,111.2 202.5,184.6 252.7,178.8 302.9,178.7 353.1,199.4 403.3,44.0 453.5,44.7 503.6,54.2 553.8,53.8 604.0,51.6" fill="none" stroke="#58a6ff" stroke-width="2"/>
+<polygon points="52.0,200.0 52.0,199.9 102.2,199.9 152.4,111.2 202.5,184.6 252.7,178.8 302.9,178.7 353.1,199.4 403.3,44.0 453.5,44.7 503.6,54.2 553.8,53.8 604.0,47.1 604.0,200.0" fill="#58a6ff" fill-opacity="0.12"/>
+<polyline points="52.0,199.9 102.2,199.9 152.4,111.2 202.5,184.6 252.7,178.8 302.9,178.7 353.1,199.4 403.3,44.0 453.5,44.7 503.6,54.2 553.8,53.8 604.0,47.1" fill="none" stroke="#58a6ff" stroke-width="2"/>
 <circle cx="52.0" cy="199.9" r="2.5" fill="#58a6ff"><title>11.25: 28.1885 KiB</title></circle>
 <circle cx="102.2" cy="199.9" r="2.5" fill="#58a6ff"><title>12.25: 28.5635 KiB</title></circle>
 <circle cx="152.4" cy="111.2" r="2.5" fill="#58a6ff"><title>01.26: 41041.1 KiB</title></circle>
@@ -14,7 +14,7 @@
 <circle cx="453.5" cy="44.7" r="2.5" fill="#58a6ff"><title>07.26: 71764.2 KiB</title></circle>
 <circle cx="503.6" cy="54.2" r="2.5" fill="#58a6ff"><title>09.26: 67380.9 KiB</title></circle>
 <circle cx="553.8" cy="53.8" r="2.5" fill="#58a6ff"><title>10.26: 67554 KiB</title></circle>
-<circle cx="604.0" cy="51.6" r="2.5" fill="#58a6ff"><title>11.26: 68573.7 KiB</title></circle>
+<circle cx="604.0" cy="47.1" r="2.5" fill="#58a6ff"><title>11.26: 70667.4 KiB</title></circle>
 <text x="46.0" y="48.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="end" font-weight="400">72094.9</text>
 <text x="46.0" y="200.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="end" font-weight="400">0</text>
 <text x="52.0" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">11.25</text>
