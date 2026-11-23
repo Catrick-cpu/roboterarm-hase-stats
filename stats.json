@@ -1,15 +1,15 @@
 {
   "repo": "HASE-HGV/Roboterarm-Hase",
-  "generated_at": "2026-11-21T18:46:32+01:00",
-  "commits": 373,
+  "generated_at": "2026-11-23T13:31:46+01:00",
+  "commits": 386,
   "contributors": 7,
-  "active_days": 77,
+  "active_days": 79,
   "first_commit": "2025-11-14",
-  "last_commit": "2026-11-21",
+  "last_commit": "2026-11-23",
   "top_contributors": [
     {
       "name": "Luca Gurband",
-      "commits": 204
+      "commits": 212
     },
     {
       "name": "Patrick Streng",
@@ -21,11 +21,11 @@
     },
     {
       "name": "github-actions[bot]",
-      "commits": 14
+      "commits": 16
     },
     {
       "name": "dependabot[bot]",
-      "commits": 2
+      "commits": 5
     },
     {
       "name": "Flxx94",
@@ -39,8 +39,8 @@
   "languages": [
     {
       "name": "Rust",
-      "bytes": 226342,
-      "percent": 64.6
+      "bytes": 227084,
+      "percent": 64.7
     },
     {
       "name": "HTML",
@@ -49,7 +49,7 @@
     },
     {
       "name": "Python",
-      "bytes": 47742,
+      "bytes": 47682,
       "percent": 13.6
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "name": "TOML",
-      "bytes": 1061,
+      "bytes": 1078,
       "percent": 0.3
     },
     {
@@ -78,7 +78,7 @@
       "percent": 0.1
     }
   ],
-  "commits_last_year": 361,
-  "loc_now": 10864,
+  "commits_last_year": 369,
+  "loc_now": 10889,
   "tests_now": 313
 }
