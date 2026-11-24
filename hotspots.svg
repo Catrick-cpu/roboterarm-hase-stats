@@ -5,8 +5,8 @@
 <rect x="170.0" y="44.0" width="300.0" height="12.0" rx="3" fill="#d29922"><title>README.md: 109</title></rect>
 <text x="478.0" y="55.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">109</text>
 <text x="160.0" y="77.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">main.rs</text>
-<rect x="170.0" y="66.0" width="88.1" height="12.0" rx="3" fill="#d29922"><title>main.rs: 32</title></rect>
-<text x="266.1" y="77.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">32</text>
+<rect x="170.0" y="66.0" width="90.8" height="12.0" rx="3" fill="#d29922"><title>main.rs: 33</title></rect>
+<text x="268.8" y="77.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">33</text>
 <text x="160.0" y="99.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">http_api.rs</text>
 <rect x="170.0" y="88.0" width="79.8" height="12.0" rx="3" fill="#d29922"><title>http_api.rs: 29</title></rect>
 <text x="257.8" y="99.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">29</text>
@@ -16,32 +16,32 @@
 <text x="160.0" y="143.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">motion.rs</text>
 <rect x="170.0" y="132.0" width="44.0" height="12.0" rx="3" fill="#d29922"><title>motion.rs: 16</title></rect>
 <text x="222.0" y="143.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">16</text>
-<text x="160.0" y="165.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">tests.rs</text>
-<rect x="170.0" y="154.0" width="41.3" height="12.0" rx="3" fill="#d29922"><title>tests.rs: 15</title></rect>
+<text x="160.0" y="165.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">.gitignore</text>
+<rect x="170.0" y="154.0" width="41.3" height="12.0" rx="3" fill="#d29922"><title>.gitignore: 15</title></rect>
 <text x="219.3" y="165.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">15</text>
-<text x="160.0" y="187.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">.gitignore</text>
-<rect x="170.0" y="176.0" width="38.5" height="12.0" rx="3" fill="#d29922"><title>.gitignore: 14</title></rect>
-<text x="216.5" y="187.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">14</text>
-<text x="160.0" y="209.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">main.rs</text>
-<rect x="170.0" y="198.0" width="38.5" height="12.0" rx="3" fill="#d29922"><title>main.rs: 14</title></rect>
+<text x="160.0" y="187.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">tests.rs</text>
+<rect x="170.0" y="176.0" width="41.3" height="12.0" rx="3" fill="#d29922"><title>tests.rs: 15</title></rect>
+<text x="219.3" y="187.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">15</text>
+<text x="160.0" y="209.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">config.rs</text>
+<rect x="170.0" y="198.0" width="38.5" height="12.0" rx="3" fill="#d29922"><title>config.rs: 14</title></rect>
 <text x="216.5" y="209.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">14</text>
-<text x="160.0" y="231.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">api.rs</text>
-<rect x="170.0" y="220.0" width="35.8" height="12.0" rx="3" fill="#d29922"><title>api.rs: 13</title></rect>
-<text x="213.8" y="231.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">13</text>
-<text x="160.0" y="253.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">Cargo.lock</text>
-<rect x="170.0" y="242.0" width="30.3" height="12.0" rx="3" fill="#d29922"><title>Cargo.lock: 11</title></rect>
-<text x="208.3" y="253.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">11</text>
-<text x="160.0" y="275.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">index.html</text>
-<rect x="170.0" y="264.0" width="30.3" height="12.0" rx="3" fill="#d29922"><title>index.html: 11</title></rect>
+<text x="160.0" y="231.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">main.rs</text>
+<rect x="170.0" y="220.0" width="38.5" height="12.0" rx="3" fill="#d29922"><title>main.rs: 14</title></rect>
+<text x="216.5" y="231.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">14</text>
+<text x="160.0" y="253.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">api.rs</text>
+<rect x="170.0" y="242.0" width="35.8" height="12.0" rx="3" fill="#d29922"><title>api.rs: 13</title></rect>
+<text x="213.8" y="253.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">13</text>
+<text x="160.0" y="275.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">Cargo.lock</text>
+<rect x="170.0" y="264.0" width="30.3" height="12.0" rx="3" fill="#d29922"><title>Cargo.lock: 11</title></rect>
 <text x="208.3" y="275.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">11</text>
-<text x="160.0" y="297.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">rust.yml</text>
-<rect x="170.0" y="286.0" width="30.3" height="12.0" rx="3" fill="#d29922"><title>rust.yml: 11</title></rect>
+<text x="160.0" y="297.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">index.html</text>
+<rect x="170.0" y="286.0" width="30.3" height="12.0" rx="3" fill="#d29922"><title>index.html: 11</title></rect>
 <text x="208.3" y="297.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">11</text>
-<text x="160.0" y="319.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">.DS_Store</text>
-<rect x="170.0" y="308.0" width="27.5" height="12.0" rx="3" fill="#d29922"><title>.DS_Store: 10</title></rect>
-<text x="205.5" y="319.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">10</text>
-<text x="160.0" y="341.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">config.rs</text>
-<rect x="170.0" y="330.0" width="27.5" height="12.0" rx="3" fill="#d29922"><title>config.rs: 10</title></rect>
+<text x="160.0" y="319.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">rust.yml</text>
+<rect x="170.0" y="308.0" width="30.3" height="12.0" rx="3" fill="#d29922"><title>rust.yml: 11</title></rect>
+<text x="208.3" y="319.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">11</text>
+<text x="160.0" y="341.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">.DS_Store</text>
+<rect x="170.0" y="330.0" width="27.5" height="12.0" rx="3" fill="#d29922"><title>.DS_Store: 10</title></rect>
 <text x="205.5" y="341.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="400">10</text>
 <text x="160.0" y="363.0" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end" font-weight="400">coveragegenerator.yml</text>
 <rect x="170.0" y="352.0" width="27.5" height="12.0" rx="3" fill="#d29922"><title>coveragegenerator.yml: 10</title></rect>
