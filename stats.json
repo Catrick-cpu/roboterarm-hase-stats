@@ -1,15 +1,15 @@
 {
   "repo": "HASE-HGV/Roboterarm-Hase",
-  "generated_at": "2026-11-24T15:01:46+01:00",
-  "commits": 394,
+  "generated_at": "2026-11-25T08:46:21+01:00",
+  "commits": 399,
   "contributors": 7,
-  "active_days": 80,
+  "active_days": 81,
   "first_commit": "2025-11-14",
-  "last_commit": "2026-11-24",
+  "last_commit": "2026-11-25",
   "top_contributors": [
     {
       "name": "Luca Gurband",
-      "commits": 220
+      "commits": 224
     },
     {
       "name": "Patrick Streng",
@@ -21,7 +21,7 @@
     },
     {
       "name": "github-actions[bot]",
-      "commits": 16
+      "commits": 17
     },
     {
       "name": "dependabot[bot]",
@@ -39,46 +39,46 @@
   "languages": [
     {
       "name": "Rust",
-      "bytes": 451913,
-      "percent": 72.3
+      "bytes": 232555,
+      "percent": 65.2
     },
     {
       "name": "HTML",
-      "bytes": 95510,
-      "percent": 15.3
+      "bytes": 47755,
+      "percent": 13.4
     },
     {
       "name": "Python",
       "bytes": 47682,
-      "percent": 7.6
+      "percent": 13.4
     },
     {
       "name": "YAML",
       "bytes": 21471,
-      "percent": 3.4
+      "percent": 6.0
     },
     {
       "name": "Shell",
       "bytes": 3838,
-      "percent": 0.6
-    },
-    {
-      "name": "TOML",
-      "bytes": 2064,
-      "percent": 0.3
+      "percent": 1.1
     },
     {
       "name": "CSS",
       "bytes": 2006,
+      "percent": 0.6
+    },
+    {
+      "name": "TOML",
+      "bytes": 1085,
       "percent": 0.3
     },
     {
       "name": "OpenSCAD",
       "bytes": 309,
-      "percent": 0.0
+      "percent": 0.1
     }
   ],
-  "commits_last_year": 377,
-  "loc_now": 19485,
-  "tests_now": 626
+  "commits_last_year": 382,
+  "loc_now": 11044,
+  "tests_now": 313
 }

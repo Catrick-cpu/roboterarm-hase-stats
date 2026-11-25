@@ -1,32 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="620" height="240" viewBox="0 0 620 240" role="img" aria-label="Commits per month">
 <rect width="620" height="240" rx="12" fill="#0d1117" stroke="#30363d"/>
 <text x="20" y="26" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13">Commits per month</text>
-<rect x="50.5" y="180.2" width="30.2" height="19.8" rx="0" fill="#58a6ff"><title>11.25: 22 commits</title></rect>
+<rect x="50.5" y="180.7" width="30.2" height="19.3" rx="0" fill="#58a6ff"><title>11.25: 22 commits</title></rect>
 <text x="65.5" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">11.25</text>
-<rect x="93.5" y="197.3" width="30.2" height="2.7" rx="0" fill="#58a6ff"><title>12.25: 3 commits</title></rect>
+<rect x="93.5" y="197.4" width="30.2" height="2.6" rx="0" fill="#58a6ff"><title>12.25: 3 commits</title></rect>
 <text x="108.6" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">12.25</text>
-<rect x="136.6" y="191.0" width="30.2" height="9.0" rx="0" fill="#58a6ff"><title>01.26: 10 commits</title></rect>
+<rect x="136.6" y="191.2" width="30.2" height="8.8" rx="0" fill="#58a6ff"><title>01.26: 10 commits</title></rect>
 <text x="151.7" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">01.26</text>
-<rect x="179.7" y="166.6" width="30.2" height="33.4" rx="0" fill="#58a6ff"><title>02.26: 37 commits</title></rect>
+<rect x="179.7" y="167.6" width="30.2" height="32.4" rx="0" fill="#58a6ff"><title>02.26: 37 commits</title></rect>
 <text x="194.8" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">02.26</text>
-<rect x="222.8" y="189.2" width="30.2" height="10.8" rx="0" fill="#58a6ff"><title>03.26: 12 commits</title></rect>
+<rect x="222.8" y="189.5" width="30.2" height="10.5" rx="0" fill="#58a6ff"><title>03.26: 12 commits</title></rect>
 <text x="237.8" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">03.26</text>
 <rect x="265.8" y="199.1" width="30.2" height="0.9" rx="0" fill="#58a6ff"><title>04.26: 1 commits</title></rect>
 <text x="280.9" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">04.26</text>
-<rect x="308.9" y="173.8" width="30.2" height="26.2" rx="0" fill="#58a6ff"><title>05.26: 29 commits</title></rect>
+<rect x="308.9" y="174.6" width="30.2" height="25.4" rx="0" fill="#58a6ff"><title>05.26: 29 commits</title></rect>
 <text x="324.0" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">05.26</text>
-<rect x="352.0" y="176.6" width="30.2" height="23.4" rx="0" fill="#58a6ff"><title>06.26: 26 commits</title></rect>
+<rect x="352.0" y="177.2" width="30.2" height="22.8" rx="0" fill="#58a6ff"><title>06.26: 26 commits</title></rect>
 <text x="367.1" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">06.26</text>
-<rect x="395.1" y="189.2" width="30.2" height="10.8" rx="0" fill="#58a6ff"><title>07.26: 12 commits</title></rect>
+<rect x="395.1" y="189.5" width="30.2" height="10.5" rx="0" fill="#58a6ff"><title>07.26: 12 commits</title></rect>
 <text x="410.2" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">07.26</text>
 <rect x="438.2" y="200.0" width="30.2" height="0.0" rx="0" fill="#58a6ff"><title>08.26: 0 commits</title></rect>
 <text x="453.2" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">08.26</text>
-<rect x="481.2" y="159.4" width="30.2" height="40.6" rx="0" fill="#58a6ff"><title>09.26: 45 commits</title></rect>
+<rect x="481.2" y="160.6" width="30.2" height="39.4" rx="0" fill="#58a6ff"><title>09.26: 45 commits</title></rect>
 <text x="496.3" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">09.26</text>
-<rect x="524.3" y="178.4" width="30.2" height="21.6" rx="0" fill="#58a6ff"><title>10.26: 24 commits</title></rect>
+<rect x="524.3" y="179.0" width="30.2" height="21.0" rx="0" fill="#58a6ff"><title>10.26: 24 commits</title></rect>
 <text x="539.4" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">10.26</text>
-<rect x="567.4" y="44.0" width="30.2" height="156.0" rx="0" fill="#58a6ff"><title>11.26: 173 commits</title></rect>
+<rect x="567.4" y="44.0" width="30.2" height="156.0" rx="0" fill="#58a6ff"><title>11.26: 178 commits</title></rect>
 <text x="582.5" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">11.26</text>
-<text x="38.0" y="48.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="end" font-weight="400">173</text>
+<text x="38.0" y="48.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="end" font-weight="400">178</text>
 <text x="38.0" y="200.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="end" font-weight="400">0</text>
 </svg>

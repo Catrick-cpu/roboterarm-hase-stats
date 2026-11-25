@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="620" height="240" viewBox="0 0 620 240" role="img" aria-label="Cumulative commits">
 <rect width="620" height="240" rx="12" fill="#0d1117" stroke="#30363d"/>
 <text x="20" y="26" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13">Cumulative commits</text>
-<polygon points="52.0,200.0 52.0,191.3 98.0,190.1 144.0,186.1 190.0,171.5 236.0,166.7 282.0,166.3 328.0,154.9 374.0,144.6 420.0,139.8 466.0,139.8 512.0,122.0 558.0,112.5 604.0,44.0 604.0,200.0" fill="#3fb950" fill-opacity="0.12"/>
-<polyline points="52.0,191.3 98.0,190.1 144.0,186.1 190.0,171.5 236.0,166.7 282.0,166.3 328.0,154.9 374.0,144.6 420.0,139.8 466.0,139.8 512.0,122.0 558.0,112.5 604.0,44.0" fill="none" stroke="#3fb950" stroke-width="2"/>
-<circle cx="52.0" cy="191.3" r="2.5" fill="#3fb950"><title>11.25: 22 commits</title></circle>
-<circle cx="98.0" cy="190.1" r="2.5" fill="#3fb950"><title>12.25: 25 commits</title></circle>
-<circle cx="144.0" cy="186.1" r="2.5" fill="#3fb950"><title>01.26: 35 commits</title></circle>
-<circle cx="190.0" cy="171.5" r="2.5" fill="#3fb950"><title>02.26: 72 commits</title></circle>
-<circle cx="236.0" cy="166.7" r="2.5" fill="#3fb950"><title>03.26: 84 commits</title></circle>
-<circle cx="282.0" cy="166.3" r="2.5" fill="#3fb950"><title>04.26: 85 commits</title></circle>
-<circle cx="328.0" cy="154.9" r="2.5" fill="#3fb950"><title>05.26: 114 commits</title></circle>
-<circle cx="374.0" cy="144.6" r="2.5" fill="#3fb950"><title>06.26: 140 commits</title></circle>
-<circle cx="420.0" cy="139.8" r="2.5" fill="#3fb950"><title>07.26: 152 commits</title></circle>
-<circle cx="466.0" cy="139.8" r="2.5" fill="#3fb950"><title>08.26: 152 commits</title></circle>
-<circle cx="512.0" cy="122.0" r="2.5" fill="#3fb950"><title>09.26: 197 commits</title></circle>
-<circle cx="558.0" cy="112.5" r="2.5" fill="#3fb950"><title>10.26: 221 commits</title></circle>
-<circle cx="604.0" cy="44.0" r="2.5" fill="#3fb950"><title>11.26: 394 commits</title></circle>
-<text x="46.0" y="48.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="end" font-weight="400">394</text>
+<polygon points="52.0,200.0 52.0,191.4 98.0,190.2 144.0,186.3 190.0,171.8 236.0,167.2 282.0,166.8 328.0,155.4 374.0,145.3 420.0,140.6 466.0,140.6 512.0,123.0 558.0,113.6 604.0,44.0 604.0,200.0" fill="#3fb950" fill-opacity="0.12"/>
+<polyline points="52.0,191.4 98.0,190.2 144.0,186.3 190.0,171.8 236.0,167.2 282.0,166.8 328.0,155.4 374.0,145.3 420.0,140.6 466.0,140.6 512.0,123.0 558.0,113.6 604.0,44.0" fill="none" stroke="#3fb950" stroke-width="2"/>
+<circle cx="52.0" cy="191.4" r="2.5" fill="#3fb950"><title>11.25: 22 commits</title></circle>
+<circle cx="98.0" cy="190.2" r="2.5" fill="#3fb950"><title>12.25: 25 commits</title></circle>
+<circle cx="144.0" cy="186.3" r="2.5" fill="#3fb950"><title>01.26: 35 commits</title></circle>
+<circle cx="190.0" cy="171.8" r="2.5" fill="#3fb950"><title>02.26: 72 commits</title></circle>
+<circle cx="236.0" cy="167.2" r="2.5" fill="#3fb950"><title>03.26: 84 commits</title></circle>
+<circle cx="282.0" cy="166.8" r="2.5" fill="#3fb950"><title>04.26: 85 commits</title></circle>
+<circle cx="328.0" cy="155.4" r="2.5" fill="#3fb950"><title>05.26: 114 commits</title></circle>
+<circle cx="374.0" cy="145.3" r="2.5" fill="#3fb950"><title>06.26: 140 commits</title></circle>
+<circle cx="420.0" cy="140.6" r="2.5" fill="#3fb950"><title>07.26: 152 commits</title></circle>
+<circle cx="466.0" cy="140.6" r="2.5" fill="#3fb950"><title>08.26: 152 commits</title></circle>
+<circle cx="512.0" cy="123.0" r="2.5" fill="#3fb950"><title>09.26: 197 commits</title></circle>
+<circle cx="558.0" cy="113.6" r="2.5" fill="#3fb950"><title>10.26: 221 commits</title></circle>
+<circle cx="604.0" cy="44.0" r="2.5" fill="#3fb950"><title>11.26: 399 commits</title></circle>
+<text x="46.0" y="48.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="end" font-weight="400">399</text>
 <text x="46.0" y="200.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="end" font-weight="400">0</text>
 <text x="52.0" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">11.25</text>
 <text x="98.0" y="214.0" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" font-weight="400">12.25</text>
