@@ -1,15 +1,15 @@
 {
   "repo": "HASE-HGV/Roboterarm-Hase",
-  "generated_at": "2026-11-27T08:26:19+01:00",
-  "commits": 404,
+  "generated_at": "2026-11-27T23:00:49+00:00",
+  "commits": 423,
   "contributors": 7,
-  "active_days": 83,
+  "active_days": 84,
   "first_commit": "2025-11-14",
   "last_commit": "2026-11-27",
   "top_contributors": [
     {
       "name": "Luca Gurband",
-      "commits": 228
+      "commits": 242
     },
     {
       "name": "Patrick Streng",
@@ -21,7 +21,7 @@
     },
     {
       "name": "github-actions[bot]",
-      "commits": 17
+      "commits": 22
     },
     {
       "name": "dependabot[bot]",
@@ -39,23 +39,23 @@
   "languages": [
     {
       "name": "Rust",
-      "bytes": 232555,
-      "percent": 65.2
+      "bytes": 238865,
+      "percent": 65.8
     },
     {
       "name": "HTML",
       "bytes": 47755,
-      "percent": 13.4
+      "percent": 13.2
     },
     {
       "name": "Python",
       "bytes": 47682,
-      "percent": 13.4
+      "percent": 13.1
     },
     {
       "name": "YAML",
       "bytes": 21471,
-      "percent": 6.0
+      "percent": 5.9
     },
     {
       "name": "Shell",
@@ -69,7 +69,7 @@
     },
     {
       "name": "TOML",
-      "bytes": 1047,
+      "bytes": 1169,
       "percent": 0.3
     },
     {
@@ -78,7 +78,7 @@
       "percent": 0.1
     }
   ],
-  "commits_last_year": 387,
-  "loc_now": 11041,
+  "commits_last_year": 405,
+  "loc_now": 11311,
   "tests_now": 313
 }
